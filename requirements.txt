@@ -1,0 +1,5 @@
+pandas>=2.2.1
+gTTS>=2.3.2
+genanki>=0.11.1
+streamlit>=1.31.1
+openpyxl>=3.1.2
